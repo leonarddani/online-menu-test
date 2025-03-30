@@ -24,6 +24,9 @@ function App() {
         <p>
           Edit <code>src/App.jjsx</code> and savjkjke to test HMR
         </p>
+        <p>
+          Edit <code>src/App.jjsx</code> a kjo eshte edit kjke to test HMR
+        </p>
       </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
